@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class Calculator implements ActionListener{
+public class Main implements ActionListener{
 
 	//Declare Variables
 	JFrame frame;
