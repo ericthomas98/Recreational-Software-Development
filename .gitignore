@@ -30,7 +30,7 @@ target/
 *.iws
 *.ipr
 .idea/
-*metadata
+.metadata
 
 # eclipse project file
 .settings/
